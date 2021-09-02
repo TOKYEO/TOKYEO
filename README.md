@@ -1,10 +1,10 @@
 ### <div align="center">Hey! I'm TOKYEO, a full time student.</div>  
   
 
-- 🔧 Working on college projects  
+- 🔧  Working on college projects  
   
 
-- 🔧 Attempting to learn C and GO  
+- 🔧  Attempting to learn C and GO  
   
 
 <br/>  
